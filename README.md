@@ -1,4 +1,5 @@
-# 🕷️ BlackDawn — Domain Intelligence & Web Vulnerability Recon Tool
+# ☀︎ BlackDawn — Domain Intelligence & Web Vulnerability Recon Tool
+![BlackDAWN](https://github.com/user-attachments/assets/00f7185f-c92e-468e-a792-853fe4d5341b)
 
 > “They'll see only the storm... never the hand behind it.” — M0hza
 
